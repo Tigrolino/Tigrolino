@@ -53,7 +53,7 @@
   </g>
 
   <g text-anchor="middle" filter="url(#tsh)">
-    <text x="600.0" y="160" class="mono up d1" font-size="24" fill="#FFFFFF" fill-opacity=".9">Hello, I am</text>
+    <text x="600.0" y="160" class="mono up d3" font-size="24" fill="#FFFFFF" fill-opacity=".9">Hello, I am</text>
     <text x="600.0" y="278" class="serif up d2" font-size="150" fill="#FFFFFF" letter-spacing="-3">Tigro<tspan font-style="italic">lino</tspan></text>
     <text x="600.0" y="336" class="mono up d3" font-size="16" fill="#FFFFFF" fill-opacity=".85" letter-spacing="6">SOFTWARE DEVELOPER<tspan class="serif" font-style="italic" font-size="26" fill="#E0566B" fill-opacity="1" letter-spacing="0" dx="14">&amp;</tspan><tspan dx="14">CINEMATOGRAPHER</tspan></text>
   </g>
